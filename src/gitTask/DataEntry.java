@@ -8,10 +8,7 @@ public class DataEntry {
 		String S2 = " Madam ";
 		String S3 = "welcome";
 		
-		int length = S.length();
-		System.out.println(length);
+		System.out.println(S);
 		
-		int indexOf = S.indexOf('e');
-		System.out.println(indexOf);
 	}
 }
